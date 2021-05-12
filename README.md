@@ -14,6 +14,13 @@ Description: Learn and apply key concepts of modeling, analysis and validation f
 Website: https://github.com/kuleshov/cornell-cs5785-applied-ml
 Lecture Videos: https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
 
+### CS229 Machine Learning
+Description:  CS229 provides a broad introduction to statistical machine learning (at an intermediate / advanced level) and covers supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical ); and reinforcement learning among other topics. The structure of the summer offering enables coverage of additional topics, places stronger emphasis on the mathematical and visual intuitions, and goes deeper into the details of various topics.
+Website: http://cs229.stanford.edu/syllabus-summer2019.html
+Lecture Videos (2019): https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh
+Cheatsheets: https://stanford.edu/~shervine/teaching/
+Lecture Videos (2018): https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+
 ## Computer Vision
 
 ## Natural Language Processing
@@ -26,6 +33,13 @@ Lecture Videos: https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3f
 ### NLP Course | For You
 Description: NLP course covering: word embeddings, text classification, language modeling, sequence-to-sequence models, attention, and transfer learning.
 Website: https://lena-voita.github.io/nlp_course.html
+
+## Unsupervised Learning
+
+### CS294-158-SP20: Deep Unsupervised Learning
+Description: This course will cover two areas of deep learning in which labeled data is not required: Deep Generative Models and Self-supervised Learning. Recent advances in generative models have made it possible to realistically model high-dimensional raw data such as natural images, audio waveforms and text corpora. Strides in self-supervised learning have started to close the gap between supervised representation learning and unsupervised representation learning in terms of fine-tuning to unseen tasks. This course will cover the theoretical foundations of these topics as well as their newly enabled applications.  
+Website: https://sites.google.com/view/berkeley-cs294-158-sp20/home
+Lecture Videos: https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP
 
 ## Reinforcement Learning
 

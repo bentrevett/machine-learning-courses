@@ -4,6 +4,12 @@ An attempt to categorize all open-source machine learning courses.
 
 ## General
 
+### Practical Deep Learning for Coders
+* Description: After finishing this course you will know how to train models that achieve state-of-the-art results in: computer vision, including image classification (e.g., classifying pet photos by breed), and image localization and detection (e.g., finding where the animals in an image are); natural language processing (NLP), including document classification (e.g., movie review sentiment analysis) and language modeling; tabular data (e.g., sales prediction) with categorical data, continuous data, and mixed data, including time series; collaborative filtering (e.g., movie recommendation). You will also learn: how to turn your models into web applications, and deploy them; why and how deep learning models work, and how to use that knowledge to improve the accuracy, speed, and reliability of your models; the latest deep learning techniques that really matter in practice, how to implement stochastic gradient descent and a complete training loop from scratch; and, how to think about the ethical implications of your work, to help ensure that you're making the world a better place and that your work isn't misused for harm. Here are some of the techniques covered: random forests and gradient boosting; affine functions and nonlinearities; parameters and activations; random initialization and transfer learning; SGD, Momentum, Adam, and other optimizers; convolutions; batch normalization; dropout; data augmentation; weight decay; image classification and regression; entity and word embeddings; recurrent neural networks (RNNs); segmentation; and much more!
+* Lecture Videos: https://course.fast.ai/
+* Companion Book: https://github.com/fastai/fastbook
+* Lecture Videos (2019): https://course19.fast.ai/
+
 ### CS182: Designing, Visualizing and Understanding Deep Neural Networks
 * Description: Broad overview of deep learning topics, including: neural network architectures, optimization algorithms, applications in vision and NLP, reinforcement learning, and advanced topics.
 * Website: https://cs182sp21.github.io/
@@ -59,3 +65,12 @@ An attempt to categorize all open-source machine learning courses.
 ### CSC2541 Topics in Machine Learning: Neural Net Training Dynamics
 * Description: Neural nets have achieved amazing results over the past decade in domains as broad as vision, speech, language understanding, medicine, robotics, and game playing. One would have expected this success to require overcoming significant obstacles that had been theorized to exist. After all, the optimization landscape is nonconvex, highly nonlinear, and high-dimensional, so why are we able to train these networks? In many cases, they have far more than enough parameters to memorize the data, so why do they generalize well? This class is about developing the conceptual tools to understand what happens when a neural net trains.
 * Website: https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2021/
+
+# Other Resources
+
+## Books
+
+* https://explained.ai/matrix-calculus/
+* deeplearningbook.org 
+* d2l.ai
+* https://mml-book.github.io/

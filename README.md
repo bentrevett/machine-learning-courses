@@ -49,7 +49,11 @@ An attempt to categorize all open-source machine learning courses.
 
 ## Reinforcement Learning
 
-## Theory
+## Mathematics and Theory
+
+### Mathematics for Machine Learning
+* Description: For a lot of higher level courses in Machine Learning and Data Science, you find you need to freshen up on the basics in mathematics - stuff you may have studied before in school or university, but which was taught in another context, or not very intuitively, such that you struggle to relate it to how it’s used in Computer Science. This specialization aims to bridge that gap, getting you up to speed in the underlying mathematics, building an intuitive understanding, and relating it to Machine Learning and Data Science.
+* Website: https://www.coursera.org/specializations/mathematics-machine-learning
 
 ### Deep learning theory lecture notes
 * Description: Aim to provide simplified proofs over what appears in the literature, ideally reducing difficult things to something that fits in a single lecture. Primarily focused on a classical perspective of achieving a low test error for binary classification with IID data via standard (typically ReLU) feedforward networks.

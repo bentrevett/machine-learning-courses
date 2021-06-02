@@ -4,6 +4,14 @@ An attempt to categorize all open-source machine learning courses.
 
 ## General
 
+### MIT 6.S191 Introduction to Deep Learning
+* Description: MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow. Course concludes with a project proposal competition with feedback from staff and panel of industry sponsors. Prerequisites assume calculus (i.e. taking derivatives) and linear algebra (i.e. matrix multiplication), we'll try to explain everything else along the way! Experience in Python is helpful but not necessary.
+* Website: http://introtodeeplearning.com/
+
+### DS-GA 1008 Deep Learning
+* Description: This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition.
+* Website: https://cds.nyu.edu/deep-learning/
+
 ### Practical Deep Learning for Coders
 * Description: After finishing this course you will know how to train models that achieve state-of-the-art results in: computer vision, including image classification (e.g., classifying pet photos by breed), and image localization and detection (e.g., finding where the animals in an image are); natural language processing (NLP), including document classification (e.g., movie review sentiment analysis) and language modeling; tabular data (e.g., sales prediction) with categorical data, continuous data, and mixed data, including time series; collaborative filtering (e.g., movie recommendation). You will also learn: how to turn your models into web applications, and deploy them; why and how deep learning models work, and how to use that knowledge to improve the accuracy, speed, and reliability of your models; the latest deep learning techniques that really matter in practice, how to implement stochastic gradient descent and a complete training loop from scratch; and, how to think about the ethical implications of your work, to help ensure that you're making the world a better place and that your work isn't misused for harm. Here are some of the techniques covered: random forests and gradient boosting; affine functions and nonlinearities; parameters and activations; random initialization and transfer learning; SGD, Momentum, Adam, and other optimizers; convolutions; batch normalization; dropout; data augmentation; weight decay; image classification and regression; entity and word embeddings; recurrent neural networks (RNNs); segmentation; and much more!
 * Lecture Videos: https://course.fast.ai/
@@ -14,11 +22,6 @@ An attempt to categorize all open-source machine learning courses.
 * Description: Broad overview of deep learning topics, including: neural network architectures, optimization algorithms, applications in vision and NLP, reinforcement learning, and advanced topics.
 * Website: https://cs182sp21.github.io/
 * Lecture Videos: https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A
-
-### CS5785: Applied Machine Learning
-* Description: Learn and apply key concepts of modeling, analysis and validation from Machine Learning, Data Mining and Signal Processing to analyze and extract meaning from data. Implement algorithms and perform experiments on images, text, audio and mobile sensor measurements. Gain working knowledge of supervised and unsupervised techniques including classification, regression, clustering, feature selection, association rule mining and dimensionality reduction.
-* Website: https://github.com/kuleshov/cornell-cs5785-applied-ml
-* Lecture Videos: https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
 
 ### CS229 Machine Learning
 * Description:  CS229 provides a broad introduction to statistical machine learning (at an intermediate / advanced level) and covers supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical ); and reinforcement learning among other topics. The structure of the summer offering enables coverage of additional topics, places stronger emphasis on the mathematical and visual intuitions, and goes deeper into the details of various topics.
@@ -58,6 +61,17 @@ An attempt to categorize all open-source machine learning courses.
 ### Deep learning theory lecture notes
 * Description: Aim to provide simplified proofs over what appears in the literature, ideally reducing difficult things to something that fits in a single lecture. Primarily focused on a classical perspective of achieving a low test error for binary classification with IID data via standard (typically ReLU) feedforward networks.
 * Website: https://mjt.cs.illinois.edu/dlt/
+
+## Applications
+
+### CS5785: Applied Machine Learning
+* Description: Learn and apply key concepts of modeling, analysis and validation from Machine Learning, Data Mining and Signal Processing to analyze and extract meaning from data. Implement algorithms and perform experiments on images, text, audio and mobile sensor measurements. Gain working knowledge of supervised and unsupervised techniques including classification, regression, clustering, feature selection, association rule mining and dimensionality reduction.
+* Website: https://github.com/kuleshov/cornell-cs5785-applied-ml
+* Lecture Videos: https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
+
+### Full Stack Deep Learning
+* Description: There are many great courses to learn how to train deep neural networks. However, training the model is just one part of shipping a deep learning project. This course teaches full-stack production deep learning: formulating the problem and estimating project cost; finding, cleaning, labeling, and augmenting data; picking the right framework and compute infrastructure; troubleshooting training and ensuring reproducibility; deploying the model at scale.
+* Website: https://fullstackdeeplearning.com/
 
 ## Miscellaneous
 

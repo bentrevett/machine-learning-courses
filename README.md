@@ -49,6 +49,7 @@ An attempt to categorize all open-source machine learning courses.
 * Description: This course will cover two areas of deep learning in which labeled data is not required: Deep Generative Models and Self-supervised Learning. Recent advances in generative models have made it possible to realistically model high-dimensional raw data such as natural images, audio waveforms and text corpora. Strides in self-supervised learning have started to close the gap between supervised representation learning and unsupervised representation learning in terms of fine-tuning to unseen tasks. This course will cover the theoretical foundations of these topics as well as their newly enabled applications.  
 * Website: https://sites.google.com/view/berkeley-cs294-158-sp20/home
 * Lecture Videos: https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP
+* Website (2019): https://sites.google.com/view/berkeley-cs294-158-sp19/home
 
 ## Reinforcement Learning
 

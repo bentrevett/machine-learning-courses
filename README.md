@@ -30,6 +30,10 @@ An attempt to categorize all open-source machine learning courses.
 * Cheatsheets: https://stanford.edu/~shervine/teaching/
 * Lecture Videos (2018): https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
+### Deep Learning (DeepMind and UCL)
+* Lecture Videos: https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF
+* Lecture Videos (2018): https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc
+
 ## Computer Vision
 
 ## Natural Language Processing
@@ -52,6 +56,13 @@ An attempt to categorize all open-source machine learning courses.
 * Website (2019): https://sites.google.com/view/berkeley-cs294-158-sp19/home
 
 ## Reinforcement Learning
+
+### Introduction to Reinforcement Learning (UCL)
+* Website: https://www.davidsilver.uk/teaching/
+* Lecture Videos: https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+
+### Reinforcement Learning (DeepMind and UCL)
+* Lecture Videos: https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
 
 ## Mathematics and Theory
 

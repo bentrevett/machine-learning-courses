@@ -4,6 +4,12 @@ An attempt to categorize all open-source machine learning courses.
 
 ## General
 
+### NYU Deep Learning
+* Description: This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition.
+* Website: https://atcold.github.io/pytorch-Deep-Learning/
+* Videos: https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI
+* Videos (2020): https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
+
 ### MIT 6.S191 Introduction to Deep Learning
 * Description: MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow. Course concludes with a project proposal competition with feedback from staff and panel of industry sponsors. Prerequisites assume calculus (i.e. taking derivatives) and linear algebra (i.e. matrix multiplication), we'll try to explain everything else along the way! Experience in Python is helpful but not necessary.
 * Website: http://introtodeeplearning.com/

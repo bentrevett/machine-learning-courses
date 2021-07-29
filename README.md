@@ -4,6 +4,10 @@ An attempt to categorize all open-source machine learning courses.
 
 ## General
 
+### Introduction to Deep Learning
+
+* Website: https://sebastianraschka.com/blog/2021/dl-course.html
+
 ### NYU Deep Learning
 * Description: This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition.
 * Website: https://atcold.github.io/pytorch-Deep-Learning/

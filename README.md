@@ -84,6 +84,10 @@ An attempt to categorize all open-source machine learning courses.
 * Description: Aim to provide simplified proofs over what appears in the literature, ideally reducing difficult things to something that fits in a single lecture. Primarily focused on a classical perspective of achieving a low test error for binary classification with IID data via standard (typically ReLU) feedforward networks.
 * Website: https://mjt.cs.illinois.edu/dlt/
 
+### UC Berkeley CS W182 / 282A: Designing, Visualizing and Understanding Deep Neural Networks 
+* Website: https://cs182sp21.github.io/
+* Lecture Videos: https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A
+
 ## Applications
 
 ### CS5785: Applied Machine Learning

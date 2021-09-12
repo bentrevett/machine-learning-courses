@@ -72,7 +72,9 @@ An attempt to categorize all open-source machine learning courses.
 * Lecture Videos: https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 
 ### Reinforcement Learning (DeepMind and UCL)
-* Lecture Videos: https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
+* Lecture Videos: https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm
+* Lecture Videos (2020): https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF
+* Lecture Videos (2018): https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
 
 ## Mathematics and Theory
 
